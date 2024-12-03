@@ -11,15 +11,5 @@ the actual command call for the test is:
 
 For help, type `python3.8 asp/test.py --help`.
 
-After a few minutes you will be able to see the result of the test in the **Actions** tab.
-You can get more information about the result of the test by clicking successively on:
-1. The specific test.
-2. "Autograding".
-3. "Run education/autograding@v1".
-
-Then scroll down until around line 150.
-For each instance, you will see if the test is a:
-* "success" (correct answer),
-* "failure" (wrong answer),
-* "timeout" (no solution found before the time runs out), or
-* "error" (clingo error).
+After the tests are run, you will be able to see the results in the **Actions** tab:
+* Select one of the tests, click in run-autograding-tests and go to the tab "Print output"
