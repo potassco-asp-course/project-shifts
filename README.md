@@ -1,4 +1,4 @@
-# Sudoku Project
+# Shift Design Project
 
 You can find the instructions of the project in the file [shifts.ipynb](shifts.ipynb).
 
